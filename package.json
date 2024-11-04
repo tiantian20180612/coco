@@ -9,8 +9,9 @@
     "build": "pnpm -r --filter ./packages run build",
     "changeset": "changeset",
     "vp": "changeset version",
+    "publish": "npm publish packages/share --no-git-checks",
     "release": "pnpm build && pnpm release:only",
-    "release:only": "changeset publish --registry=https://registry.npmjs.com/"
+    "release:only": "changeset publish --registry=https://registry.npmjs.com/ --no-git-checks"
   },
   "private": true,
   "engines": {
