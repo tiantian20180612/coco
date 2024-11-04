@@ -1,4 +1,4 @@
-# @coco/share
+# @coaco/share
 
 ## 1.2.0
 

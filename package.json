@@ -1,5 +1,5 @@
 {
-  "name": "coco",
+  "name": "coaco",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "build": "pnpm -r --filter ./packages run build",
     "changeset": "changeset",
     "vp": "changeset version",
-    "publish": "npm publish packages/share --no-git-checks",
+    "publish": "npm publish packages/share",
     "release": "pnpm build && pnpm release:only",
     "release:only": "changeset publish --registry=https://registry.npmjs.com/"
   },

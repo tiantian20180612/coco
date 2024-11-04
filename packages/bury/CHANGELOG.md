@@ -1,4 +1,4 @@
-# @coco/bury
+# @coaco/bury
 
 ## 1.2.0
 
@@ -9,4 +9,4 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @coco/share@1.2.0
+  - @coaco/share@1.2.0

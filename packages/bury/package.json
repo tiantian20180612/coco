@@ -1,5 +1,5 @@
 {
-  "name": "@coco/bury",
+  "name": "@coaco/bury",
   "version": "1.2.0",
   "description": "",
   "main": "index.js",
@@ -14,6 +14,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@coco/share": "workspace:^"
+    "@coaco/share": "workspace:^"
   }
 }
