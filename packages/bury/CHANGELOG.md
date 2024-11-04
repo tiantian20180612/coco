@@ -1,5 +1,16 @@
 # @coaco/bury
 
+## 1.5.0
+
+### Minor Changes
+
+- 1.4.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @coaco/share@1.5.0
+
 ## 1.4.0
 
 ### Minor Changes
