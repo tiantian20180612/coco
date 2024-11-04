@@ -16,6 +16,7 @@
   "engines": {
     "node": ">=16"
   },
+  "private": true,
   "keywords": [],
   "author": "",
   "license": "ISC",
