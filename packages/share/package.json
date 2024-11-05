@@ -1,6 +1,6 @@
 {
-  "name": "@coaco/share",
-  "version": "1.5.0",
+  "name": "@coco/share",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {

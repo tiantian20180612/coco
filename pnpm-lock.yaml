@@ -14,7 +14,7 @@ importers:
 
   packages/bury:
     dependencies:
-      '@coaco/share':
+      '@coco/share':
         specifier: workspace:^
         version: link:../share
 
