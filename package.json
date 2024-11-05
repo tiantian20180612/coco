@@ -20,5 +20,6 @@
   "license": "ISC",
   "devDependencies": {
     "@changesets/cli": "^2.27.9"
-  }
+  },
+  "__npminstall_done": false
 }
